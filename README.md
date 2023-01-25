@@ -1,2 +1,2 @@
 # livecode-otp
-One-time passcode library for the Livecode programming language
+One-time passcode library for the Livecode programming language. This library implements HOTP (Counter-based) and TOTP (Time-based) one-time passcode generation and verification. Originally based off of the [NOTP javascript library](https://github.com/guyht/notp).
